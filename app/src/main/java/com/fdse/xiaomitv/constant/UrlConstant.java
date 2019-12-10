@@ -15,8 +15,8 @@ public class UrlConstant {
     /**
      * App后端url
      */
-    public static final String APP_BACK_END_IP = "www.fudanse.club";//142,148110
-    public static final String APP_BACK_END_PORT = "80/sc";
+    public static final String APP_BACK_END_IP = "10.141.221.88";//142,148110
+    public static final String APP_BACK_END_PORT = "8080/sc";
 //    public static final String APP_BACK_END_IP = "192.168.1.105";//142,148110
 //    public static final String APP_BACK_END_PORT = "8080/";
 

@@ -28,14 +28,11 @@ import android.widget.VideoView;
 
 import com.alibaba.fastjson.JSONObject;
 import com.danikula.videocache.HttpProxyCacheServer;
-import com.fdse.xiaomitv.MyApp;
 import com.fdse.xiaomitv.R;
 import com.fdse.xiaomitv.constant.UrlConstant;
 import com.fdse.xiaomitv.http.HttpUtil;
 
 import java.io.IOException;
-import java.net.HttpCookie;
-import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
